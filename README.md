@@ -39,11 +39,10 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows use .venv\Scripts\activate
 
 # Install Dependencies
-
-pip install -r requirements.txt
-
+     ```bash
+     pip install -r requirements.txt
 # For Uploading Large files 
-  Use Git LFS
+    Use Git LFS
 
   
 
