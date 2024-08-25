@@ -98,6 +98,7 @@ For questions or feedback, please contact:
 - **Name**: Amit Kumar
 - **Email**: amitkumar@example.com
 - **GitHub**: amitkumar2308
+- **Live Link**: https://cancer-detection-app-zcweijmycktb9nqxlvdrjd.streamlit.app/
 
 
   
