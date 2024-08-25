@@ -34,22 +34,69 @@ To get a copy of this project up and running on your local machine, follow these
    git clone https://github.com/amitkumar2308/Cancer-detection-streamlit.git
    cd Cancer-detection-streamlit
 
-# Setup Virtual Environment
-python -m venv .venv
-source .venv/bin/activate  # On Windows use .venv\Scripts\activate
+2. **Setup Virtual Environment**
+     ```bash
+        python -m venv .venv
+        source .venv/bin/activate  # On Windows use .venv\Scripts\activate
 
-# Install Dependencies
-
-
+3. **Install Dependencies**
    ```bash
-     pip install -r requirements.txt
+    pip install -r requirements.txt
 
 
-# For Uploading Large files 
+**For Uploading Large files** 
     Use Git LFS
 
 # Run the application
   streamlit run model.py
+
+
+🖼️ How It Works
+
+1. **Upload an Image**
+
+   Click on the "Choose an image..." button to select a chest X-ray image in .png, .jpg, or .jpeg format.
+
+2. **Receive Predictions**
+
+   Click "Predict" to analyze the image. The application will display the predicted type of lung cancer and provide confidence levels.
+
+### Example
+
+- **Image Upload**: 
+  [Include image upload example here]
+- **Prediction Result**: 
+  [Include prediction result example here]
+
+🤝 Contributing
+
+We welcome contributions to improve this project. To contribute:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Make your changes.
+4. Commit your changes (`git commit -am 'Add new feature'`).
+5. Push to the branch (`git push origin feature-branch`).
+6. Create a Pull Request.
+
+🧑‍💻 Development Guidelines
+
+- Use `black` for code formatting.
+- Write tests for new features.
+- Ensure code is well-documented.
+
+📜 License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+📞 Contact
+
+For questions or feedback, please contact:
+
+- **Name**: Amit Kumar
+- **Email**: amitkumar@example.com
+- **GitHub**: amitkumar2308
+
 
   
 
