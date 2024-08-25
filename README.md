@@ -12,7 +12,7 @@ Our application utilizes a pre-trained `InceptionV3` model to provide prediction
 - **User-Friendly Interface**: Simple and intuitive design for seamless interaction.
 - **Model Integration**: Uses advanced deep learning techniques for accurate results.
 
-![Project Screenshot](assets/preview.png)
+![Project Screenshot](assests/project.png)
 
 ## 🚀 Getting Started
 
