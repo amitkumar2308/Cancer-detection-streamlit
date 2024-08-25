@@ -39,10 +39,17 @@ python -m venv .venv
 source .venv/bin/activate  # On Windows use .venv\Scripts\activate
 
 # Install Dependencies
-     ```bash
+
+
+   ```bash
      pip install -r requirements.txt
+
+
 # For Uploading Large files 
     Use Git LFS
+
+# Run the application
+  streamlit run model.py
 
   
 
