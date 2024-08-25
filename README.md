@@ -33,3 +33,17 @@ To get a copy of this project up and running on your local machine, follow these
    ```bash
    git clone https://github.com/amitkumar2308/Cancer-detection-streamlit.git
    cd Cancer-detection-streamlit
+
+# Setup Virtual Environment
+python -m venv .venv
+source .venv/bin/activate  # On Windows use .venv\Scripts\activate
+
+# Install Dependencies
+
+pip install -r requirements.txt
+
+# For Uploading Large files 
+  Use Git LFS
+
+  
+
