@@ -47,8 +47,9 @@ To get a copy of this project up and running on your local machine, follow these
 **For Uploading Large files** 
     Use Git LFS
 
-# Run the application
-  streamlit run model.py
+**Run the application** 
+    ```bash
+      streamlit run model.py
 
 
 🖼️ How It Works
