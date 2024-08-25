@@ -44,12 +44,13 @@ To get a copy of this project up and running on your local machine, follow these
     pip install -r requirements.txt
 
 
-**For Uploading Large files** 
-    Use Git LFS
+4. **For Uploading Large files** 
+   ```bash
+   Use Git LFS
 
-**Run the application** 
+5. **Run the application** 
     ```bash
-      streamlit run model.py
+    streamlit run model.py
 
 
 🖼️ How It Works
